@@ -2,6 +2,7 @@
 
 <!--
 **BillyNaylor/BillyNaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Billy Here, just learning
 
 Here are some ideas to get you started:
 
